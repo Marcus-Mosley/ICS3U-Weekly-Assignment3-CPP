@@ -9,7 +9,8 @@
 #include <string>
 
 int main() {
-    // This function changes the number of a month to its word counterpart
+    // This program gives the number of days in a month,
+    //     even when there is a leap year
     std::string month_str;
     std::string year_str;
     int month_int;
